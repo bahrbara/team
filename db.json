@@ -1,148 +1,30 @@
 {
   "Team": [
-    {
-      "name": "Time 1",
-      "description": "Trabalhamos com o time 1",
-      "members": [
-        {
-          "id": 1,
-          "name": "Bárbara",
-          "email": "bah_bih@hotmail.com",
-          "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-          "web_url": null,
-          "username": "bahrbara",
-          "password": "1515151",
-          "token": "ha7171tgh"
-        }
-      ],
-      "projects": [
-        {
-          "id": 1,
-          "name": "Kaasa",
-"avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/6115251/favicon.png"
-
-        },
-        {
-          "id": 2,
-          "name": "Projeto 2",
-"avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/7265770/reformafeita.png"
-        }
-      ],
-      "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-      "web_url": null
-    },
-{
-      "name": "Time 1",
-      "description": "Trabalhamos com o time 1",
-      "members": [
-        {
-          "id": 1,
-          "name": "Bárbara",
-          "email": "bah_bih@hotmail.com",
-          "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-          "web_url": null,
-          "username": "bahrbara",
-          "password": "1515151",
-          "token": "ha7171tgh"
-        },
- {
-          "id": 1,
-          "name": "Bárbara",
-          "email": "bah_bih@hotmail.com",
-          "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-          "web_url": null,
-          "username": "bahrbara",
-          "password": "1515151",
-          "token": "ha7171tgh"
-        },
- {
-          "id": 1,
-          "name": "Bárbara",
-          "email": "bah_bih@hotmail.com",
-          "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-          "web_url": null,
-          "username": "bahrbara",
-          "password": "1515151",
-          "token": "ha7171tgh"
-        }
-      ],
-      "projects": [
-        {
-          "id": 1,
-          "name": "Kaasa",
-"avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/6115251/favicon.png"
-
-        },
-        {
-          "id": 2,
-          "name": "Projeto 2",
-"avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/7265770/reformafeita.png"
-        }
-      ],
-      "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-      "web_url": null
-    },
-{
-      "name": "Time 1",
-      "description": "Trabalhamos com o time 1",
-      "members": [
-        {
-          "id": 1,
-          "name": "Bárbara",
-          "email": "bah_bih@hotmail.com",
-          "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-          "web_url": null,
-          "username": "bahrbara",
-          "password": "1515151",
-          "token": "ha7171tgh"
-        }
-      ],
-      "projects": [
-        {
-          "id": 1,
-          "name": "Kaasa",
-"avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/6115251/favicon.png"
-
-        },
-        {
-          "id": 2,
-          "name": "Projeto 2",
-"avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/7265770/reformafeita.png"
-        }
-      ],
-      "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-      "web_url": null
-    },
-{
-      "name": "Time 1",
-      "description": "Trabalhamos com o time 1",
-      "members": [
-        {
-          "id": 1,
-          "name": "Bárbara",
-          "email": "bah_bih@hotmail.com",
-          "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-          "web_url": null,
-          "username": "bahrbara",
-          "password": "1515151",
-          "token": "ha7171tgh"
-        }
-      ],
-      "projects": [
-        {
-          "id": 1,
-          "name": "Kaasa",
-"avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/6115251/favicon.png"
-
-        },
-        {
-          "id": 2,
-          "name": "Projeto 2",
-"avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/7265770/reformafeita.png"
-        }
-      ],
-      "avatar_url": "https://www.newstrategygroup.com/wp-content/uploads/2018/04/strategy-team.jpg",
-      "web_url": null
-    }
-  ]
+  {
+    "name": "aaaa",
+    "description": "aaaa",
+    "avatar_url": "",
+    "_id": "5c0667d4bb80e30022fa7289",
+    "members": [
+      {
+        "_gid": "5c06591983d1a9001c5f9143",
+        "name": "Bárbara C. Blank Garibaldi",
+        "username": "barbarablank",
+        "web_url": "https://gitlab.com/barbarablank",
+        "avatar_url": "https://secure.gravatar.com/avatar/018dab2661e625d909183365c17301d8?s=80&d=identicon",
+        "_id": "5c06591983d1a9001c5f9143"
+      }
+    ],
+    "projects": [
+      {
+        "_gid": "132",
+        "name": "gitception",
+        "web_url": "https://gitlab.com/construtechventures/gitception",
+        "description": "DESCRICAO",
+        "avatar_url": "123133"
+      }
+    ],
+    "created_at": "2018-12 - 04T11: 41: 08.273Z",
+    "__v": 0
+  }]
 }
